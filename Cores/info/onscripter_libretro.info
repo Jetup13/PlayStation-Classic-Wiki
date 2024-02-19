@@ -5,7 +5,7 @@ authors = "Studio O.G.A."
 categories = "Game engine"
 license = "GPLv3+"
 permissions = ""
-supported_extensions = "txt|dat|ons"
+supported_extensions = "txt|dat|___"
 
 # Hardware Information
 manufacturer = "ONScripter"
